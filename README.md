@@ -1,4 +1,4 @@
-# Car-s-Selling-Prediction
+# Car-s-Selling-Prediction  - Linear Regression
 
 A dataset that records the selling prices of 8,128 cars in India is given. The prices are recorded along with some other attributes like - kilometer driven,year,selling_price,fuel,seller_type,transmission and Owner details.
 
